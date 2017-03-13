@@ -14,4 +14,4 @@ void randombeep() {
 	int number = rand() % 600;
 	int number2 = rand() % 899;
 	Beep(number, number2);
-}
+}//Main ( Ignore This Blake Its Isaak)
