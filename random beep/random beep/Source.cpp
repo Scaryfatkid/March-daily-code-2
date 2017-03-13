@@ -11,7 +11,7 @@ int main() {
 
 
 void randombeep() {
-	int number = rand() % 600;
-	int number2 = rand() % 899;
+	int number = rand() % 400;
+	int number2 = rand() % 1400;
 	Beep(number, number2);
 }
